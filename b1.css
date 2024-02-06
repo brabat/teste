@@ -8,6 +8,8 @@ font-size: 24px;
 body {
  background: 
  linear-gradient(slateblue,rgb(81, 81, 146));
+ background-repeat: no-repeat;/* nao repetir a imagem*/
+ background-size: cover; /*adapitar a imagem*/
 font-family: Trebuchet MS;
 color: white;
 text-align: center;
