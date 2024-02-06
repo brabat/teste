@@ -6,6 +6,7 @@ h2 {
 font-size: 24px;
 }
 body {
+    height: 100vh;
  background: 
  linear-gradient(slateblue,rgb(81, 81, 146));
  background-repeat: no-repeat;/* nao repetir a imagem*/
