@@ -1,0 +1,29 @@
+img {
+    border-radius: 20px;
+    width: 100px;
+}
+h2 {
+font-size: 24px;
+}
+body {
+ background: 
+ linear-gradient(slateblue,rgb(81, 81, 146));
+font-family: Trebuchet MS;
+color: white;
+text-align: center;
+}
+a {
+background-color: rgb(66, 51, 163);
+font-size: 15px;
+border-radius: 3px;
+padding: 10px;
+display: block;
+text-align: center;
+margin: 3px;
+color: rgb(8, 8, 8);
+}
+button {
+    border-radius: 1px;
+    width: 100px;
+    background-color: rgb(66, 51, 163);
+}
